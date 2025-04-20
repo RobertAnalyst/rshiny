@@ -8,6 +8,8 @@ Welcome to the **Tsavo Ecosystem Dashboard**, an interactive Shiny application d
 
 This tool is ideal for ecologists, conservationists, policy makers, and anyone interested in understanding wildlife populations in the Tsavo region. The dashboard is user-friendly and offers quick insights through visualizations and summary boxes.
 
+Access the Live App 🌐 [HERE](https://safewaterdswprogram.shinyapps.io/portal_data/)
+
 ---
 
 ## Features
