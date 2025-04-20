@@ -52,7 +52,8 @@ Ensure you have the following R packages installed:
 install.packages(c("shiny", "shinydashboard", "ggplot2", "dplyr"))
 ```
 ---
-## 🌐 Live App
+## 🌐 [Live App](https://safewaterdswprogram.shinyapps.io/portal_data/)
+
 
 Check out the live version hosted on shinyapps.io -> https://safewaterdswprogram.shinyapps.io/portal_data/
 
